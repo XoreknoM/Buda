@@ -22,13 +22,13 @@
 }
 .container .section:nth-child(1)
 {
-background: rgb(255, 0, 234) url(./Фото/Sasha123.jpg);
+background: rgb(255, 0, 234) url(Фото/Sasha123.jpg);
 background-size: cover;
 background-attachment: fixed;
 }
 .container .section:nth-child(2)
 {
-background: rgb(82, 192, 82) url(./Фото/Sasha_cosak.PNG);
+background: rgb(82, 192, 82) url(Фото/Sasha_cosak.PNG);
 background-size: 25% auto;
 background-attachment: fixed;
 }
