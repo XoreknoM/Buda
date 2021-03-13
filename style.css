@@ -22,43 +22,43 @@
 }
 .container .section:nth-child(1)
 {
-background: rgb(255, 0, 234) url(/Фото/Sasha123.jpg);
+background: rgb(255, 0, 234) url(./Фото/Sasha123.jpg);
 background-size: cover;
 background-attachment: fixed;
 }
 .container .section:nth-child(2)
 {
-background: rgb(82, 192, 82) url(/Фото/Sasha_cosak.PNG);
+background: rgb(82, 192, 82) url(./Фото/Sasha_cosak.PNG);
 background-size: 25% auto;
 background-attachment: fixed;
 }
 .container .section:nth-child(3)
 {
-background: #ff0 url(/Фото/Sasha_krash.jpg);
+background: #ff0 url(./Фото/Sasha_krash.jpg);
 background-size: 15% auto;
 background-attachment: fixed;
 }
 .container .section:nth-child(4)
 {
-background: rgb(137, 237, 23) url(/Фото/Sasha_gey.jpg);
+background: rgb(137, 237, 23) url(./Фото/Sasha_gey.jpg);
 background-size: 50% 100%;
 background-attachment: fixed;
 }
 .container .section:nth-child(5)
 {
-background: rgb(87, 87, 255) url(/Фото/Sasha_chai.JPG);
+background: rgb(87, 87, 255) url(./Фото/Sasha_chai.JPG);
 background-size: 90% contain;
 background-attachment: fixed;
 }
 .container .section:nth-child(6)
 {
-background: rgb(94, 219, 150) url(/Фото/2.jpeg);
+background: rgb(94, 219, 150) url(./Фото/2.jpeg);
 background-size: cover;
 background-attachment: fixed;
 }
 .container .section:nth-child(7)
 {
-background: #bf52bf url(/Фото/1.jpeg);
+background: #bf52bf url(./Фото/1.jpeg);
 background-size: 10% auto;
 background-attachment: fixed;
 display: block;
